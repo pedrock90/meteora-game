@@ -1,0 +1,59 @@
+---GIT COMMANDS
+git init
+
+git commit -am "initial commit"
+
+git lfs install 
+git lfs track "*.psd"
+
+git add -a
+git push -u origin main
+
+git branch -m master main
+
+
+
+
+verify eggs lives
+----- MONSTERS
+
+monsters can have different attack types and can be assigned on the monster info panel
+
+monsters have a race and can have nicknames
+
+monsters are weak or strong to certain types of attacks
+
+monsters can learn attacks by level or with items
+
+monsters have stats such as lives, attack, defense exp and evasion, happiness
+
+----- ATTRIBUTES / STATS
+happiness can make monsters to attack a little stronger
+
+----- ITEMS
+Attack items
+
+item that can help the  attack bar to go slower
+
+items to do extra critical damage
+
+item to restore lives
+
+item to restore hp every turn on duel
+
+
+----- STORAGE
+Storage for more items can be bought with coins
+
+Storage for more monsters can be bought with coins
+
+
+
+----- ATTACKS
+attacks are divided by elements
+
+
+
+
+----- EVOLUTIONS
+monsters can evolve with certain situations (leve, steps, time selected, duels won)
